@@ -15,7 +15,7 @@ I'm an aspiring software enthusiast and final-year student excited to embark on 
 
 • Front-end Frameworks: React. <br>
 • Back-end Frameworks: Express.js, Ruby on Rails. <br>
-• Styling: SASS/SCSS, Tailwind CSS. <br> 
+• Styling: Tailwind CSS. <br> 
 • Software: VS Code, Git, GitHub, CodePen, Replit <br> 
 
 ### 🔥 Highlights:
